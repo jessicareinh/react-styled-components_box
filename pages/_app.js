@@ -1,5 +1,5 @@
 import { GlobalStyle } from "../styles";
-import "../components/BoxWithClassName/BoxWithClassName.css";
+import "../components/BoxWithClassName/BoxWithStyledComponents";
 
 export default function App({ Component, pageProps }) {
   return (
